@@ -1,0 +1,7 @@
+{
+    "channel": 11,
+    "report_period": 30,
+    "paths": {
+        "fifo_path": "/tmp/zigsniff"
+    }
+}
